@@ -1,4 +1,4 @@
-# To generate a map
+# To generate a map at the terminal, requires python3 and numpy
 python3 so_long_map_generator.py
 
 # Description
